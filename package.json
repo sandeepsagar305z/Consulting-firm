@@ -1,0 +1,25 @@
+{
+  "name": "sevreal-website",
+  "version": "1.0.0",
+  "description": "Responsive website for Sevreal software consulting solutions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "build": "echo 'This is a static site, no build process needed'",
+    "preview": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "consulting",
+    "software",
+    "website",
+    "responsive",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Sevreal",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
